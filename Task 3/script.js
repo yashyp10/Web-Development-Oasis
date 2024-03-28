@@ -2,7 +2,7 @@ let allTasks = [];
 let innerTasks = [];
 
 let count = 1; //for identical collapse id
-const upperLi = document.getElementById("upperLi");
+const upperLi = document.getElementById("upperLi"); 
 const innerLi = document.getElementById("innerLi");
 const mainForm = document.getElementById("addingForm");
 const mainInput = addingForm.children[0];
