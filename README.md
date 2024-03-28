@@ -11,4 +11,4 @@ For the run main page ues this link :- https://github.com/yashyp10/Web-Developme
         Run this (link)html code for run the all task's..
 
 
-Live project:- https://ashu1230.github.io/Web-Development-Oasis/
+Live project:- https://yashyp10.github.io/Web-Development-Oasis/
